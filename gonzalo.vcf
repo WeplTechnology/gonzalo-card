@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+N:García;Gonzalo;;;
+FN:Gonzalo García
+ORG:Realaize Capital Holding S.L.
+TITLE:Head of Transactions & Acquisitions
+EMAIL;type=INTERNET;type=WORK;type=pref:gonzalo@realaize.capital
+TEL;type=CELL;type=VOICE;type=pref:+34669192868
+ADR;type=WORK:;;Calle de Zurbano 34\, 4º Izda.;Madrid;;28010;Spain
+URL:https://www.realaize.capital
+item1.URL:https://www.linkedin.com/in/gonzalo-garcia-m/
+item1.X-ABLabel:LinkedIn
+NOTE:Living & Hospitality real estate investment in Spain and Southern Europe.
+REV:2026-09-14T00:00:00Z
+END:VCARD
